@@ -1,0 +1,6 @@
+@Presentation.BisleriumBloggingSystem_HostAddress = http://localhost:5143
+
+GET {{Presentation.BisleriumBloggingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
